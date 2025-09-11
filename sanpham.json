@@ -1,0 +1,12 @@
+[
+  {"id": 1, "ten_san_pham": "Paracetamol 500mg", "gia_goc": 50000, "khuyen_mai_percent": 10, "gia_ban": 45000},
+  {"id": 2, "ten_san_pham": "Vitamin C 1000mg", "gia_goc": 120000, "khuyen_mai_percent": 15, "gia_ban": 102000},
+  {"id": 3, "ten_san_pham": "Amoxicillin 500mg", "gia_goc": 80000, "khuyen_mai_percent": 5, "gia_ban": 76000},
+  {"id": 4, "ten_san_pham": "Ibuprofen 400mg", "gia_goc": 90000, "khuyen_mai_percent": 20, "gia_ban": 72000},
+  {"id": 5, "ten_san_pham": "Aspirin 81mg", "gia_goc": 60000, "khuyen_mai_percent": 8, "gia_ban": 55200},
+  {"id": 6, "ten_san_pham": "Cetirizine 10mg", "gia_goc": 70000, "khuyen_mai_percent": 12, "gia_ban": 61600},
+  {"id": 7, "ten_san_pham": "Omeprazole 20mg", "gia_goc": 110000, "khuyen_mai_percent": 10, "gia_ban": 99000},
+  {"id": 8, "ten_san_pham": "Metformin 500mg", "gia_goc": 95000, "khuyen_mai_percent": 18, "gia_ban": 77900},
+  {"id": 9, "ten_san_pham": "Simvastatin 20mg", "gia_goc": 105000, "khuyen_mai_percent": 15, "gia_ban": 89250},
+  {"id": 10, "ten_san_pham": "Loratadine 10mg", "gia_goc": 85000, "khuyen_mai_percent": 7, "gia_ban": 79050}
+]
