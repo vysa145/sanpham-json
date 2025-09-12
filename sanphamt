@@ -1,0 +1,11 @@
+{"id": 11, "ten_san_pham": "Azithromycin 250mg", "gia_goc": 150000, "khuyen_mai_percent": 12, "gia_ban": 132000},
+  {"id": 12, "ten_san_pham": "Clopidogrel 75mg", "gia_goc": 125000, "khuyen_mai_percent": 10, "gia_ban": 112500},
+  {"id": 13, "ten_san_pham": "Atorvastatin 20mg", "gia_goc": 135000, "khuyen_mai_percent": 15, "gia_ban": 114750},
+  {"id": 14, "ten_san_pham": "Losartan 50mg", "gia_goc": 140000, "khuyen_mai_percent": 20, "gia_ban": 112000},
+  {"id": 15, "ten_san_pham": "Pantoprazole 40mg", "gia_goc": 95000, "khuyen_mai_percent": 10, "gia_ban": 85500},
+  {"id": 16, "ten_san_pham": "Gliclazide 80mg", "gia_goc": 88000, "khuyen_mai_percent": 8, "gia_ban": 80960},
+  {"id": 17, "ten_san_pham": "Levocetirizine 5mg", "gia_goc": 76000, "khuyen_mai_percent": 5, "gia_ban": 72200},
+  {"id": 18, "ten_san_pham": "Diclofenac 50mg", "gia_goc": 67000, "khuyen_mai_percent": 12, "gia_ban": 58960},
+  {"id": 19, "ten_san_pham": "Furosemide 40mg", "gia_goc": 72000, "khuyen_mai_percent": 15, "gia_ban": 61200},
+  {"id": 20, "ten_san_pham": "Ciprofloxacin 500mg", "gia_goc": 118000, "khuyen_mai_percent": 18, "gia_ban": 96760}
+]
