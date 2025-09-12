@@ -1,4 +1,5 @@
-{"id": 11, "ten_san_pham": "Azithromycin 250mg", "gia_goc": 150000, "khuyen_mai_percent": 12, "gia_ban": 132000},
+[
+  {"id": 11, "ten_san_pham": "Azithromycin 250mg", "gia_goc": 150000, "khuyen_mai_percent": 12, "gia_ban": 132000},
   {"id": 12, "ten_san_pham": "Clopidogrel 75mg", "gia_goc": 125000, "khuyen_mai_percent": 10, "gia_ban": 112500},
   {"id": 13, "ten_san_pham": "Atorvastatin 20mg", "gia_goc": 135000, "khuyen_mai_percent": 15, "gia_ban": 114750},
   {"id": 14, "ten_san_pham": "Losartan 50mg", "gia_goc": 140000, "khuyen_mai_percent": 20, "gia_ban": 112000},
