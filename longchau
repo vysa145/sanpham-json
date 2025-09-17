@@ -1,0 +1,1496 @@
+[
+  {
+    "store": "Nhà thuốc Long Châu",
+    "currency": "VND",
+    "products": [
+        {
+            "product_id": "LC-2025-001",
+            "ten_san_pham": "Paracetamol 500mg - Hộp 20 viên",
+            "lich_su_gia": [
+                {
+                    "ngay": "2025-08-01",
+                    "gia_goc": 60000,
+                    "gia_ban": 45000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-02",
+                    "gia_goc": 60000,
+                    "gia_ban": 48000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-03",
+                    "gia_goc": 60000,
+                    "gia_ban": 42000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-04",
+                    "gia_goc": 60000,
+                    "gia_ban": 42000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-05",
+                    "gia_goc": 60000,
+                    "gia_ban": 48000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-06",
+                    "gia_goc": 60000,
+                    "gia_ban": 42000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-07",
+                    "gia_goc": 60000,
+                    "gia_ban": 42000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-08",
+                    "gia_goc": 60000,
+                    "gia_ban": 57000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-08-09",
+                    "gia_goc": 60000,
+                    "gia_ban": 60000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-10",
+                    "gia_goc": 60000,
+                    "gia_ban": 42000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-11",
+                    "gia_goc": 60000,
+                    "gia_ban": 51000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-08-12",
+                    "gia_goc": 60000,
+                    "gia_ban": 42000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-13",
+                    "gia_goc": 60000,
+                    "gia_ban": 42000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-14",
+                    "gia_goc": 60000,
+                    "gia_ban": 57000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-08-15",
+                    "gia_goc": 60000,
+                    "gia_ban": 45000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-16",
+                    "gia_goc": 60000,
+                    "gia_ban": 60000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-17",
+                    "gia_goc": 60000,
+                    "gia_ban": 45000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-18",
+                    "gia_goc": 60000,
+                    "gia_ban": 60000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-19",
+                    "gia_goc": 60000,
+                    "gia_ban": 42000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-20",
+                    "gia_goc": 60000,
+                    "gia_ban": 57000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-08-21",
+                    "gia_goc": 60000,
+                    "gia_ban": 48000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-22",
+                    "gia_goc": 60000,
+                    "gia_ban": 60000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-23",
+                    "gia_goc": 60000,
+                    "gia_ban": 57000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-08-24",
+                    "gia_goc": 60000,
+                    "gia_ban": 51000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-08-25",
+                    "gia_goc": 60000,
+                    "gia_ban": 57000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-08-26",
+                    "gia_goc": 60000,
+                    "gia_ban": 48000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-27",
+                    "gia_goc": 60000,
+                    "gia_ban": 57000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-08-28",
+                    "gia_goc": 60000,
+                    "gia_ban": 60000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-29",
+                    "gia_goc": 60000,
+                    "gia_ban": 54000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-30",
+                    "gia_goc": 60000,
+                    "gia_ban": 51000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-08-31",
+                    "gia_goc": 60000,
+                    "gia_ban": 48000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-09-01",
+                    "gia_goc": 60000,
+                    "gia_ban": 45000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-02",
+                    "gia_goc": 60000,
+                    "gia_ban": 51000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-03",
+                    "gia_goc": 60000,
+                    "gia_ban": 48000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-09-04",
+                    "gia_goc": 60000,
+                    "gia_ban": 54000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-05",
+                    "gia_goc": 60000,
+                    "gia_ban": 42000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-06",
+                    "gia_goc": 60000,
+                    "gia_ban": 57000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-07",
+                    "gia_goc": 60000,
+                    "gia_ban": 45000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-08",
+                    "gia_goc": 60000,
+                    "gia_ban": 48000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-09-09",
+                    "gia_goc": 60000,
+                    "gia_ban": 57000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-10",
+                    "gia_goc": 60000,
+                    "gia_ban": 51000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-11",
+                    "gia_goc": 60000,
+                    "gia_ban": 48000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-09-12",
+                    "gia_goc": 60000,
+                    "gia_ban": 54000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-13",
+                    "gia_goc": 60000,
+                    "gia_ban": 54000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-14",
+                    "gia_goc": 60000,
+                    "gia_ban": 42000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-15",
+                    "gia_goc": 60000,
+                    "gia_ban": 42000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-16",
+                    "gia_goc": 60000,
+                    "gia_ban": 54000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-17",
+                    "gia_goc": 60000,
+                    "gia_ban": 54000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-18",
+                    "gia_goc": 60000,
+                    "gia_ban": 48000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-09-19",
+                    "gia_goc": 60000,
+                    "gia_ban": 48000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-09-20",
+                    "gia_goc": 60000,
+                    "gia_ban": 48000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-09-21",
+                    "gia_goc": 60000,
+                    "gia_ban": 51000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-22",
+                    "gia_goc": 60000,
+                    "gia_ban": 54000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-23",
+                    "gia_goc": 60000,
+                    "gia_ban": 48000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-09-24",
+                    "gia_goc": 60000,
+                    "gia_ban": 45000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-25",
+                    "gia_goc": 60000,
+                    "gia_ban": 45000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-26",
+                    "gia_goc": 60000,
+                    "gia_ban": 42000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-27",
+                    "gia_goc": 60000,
+                    "gia_ban": 45000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-28",
+                    "gia_goc": 60000,
+                    "gia_ban": 42000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-29",
+                    "gia_goc": 60000,
+                    "gia_ban": 54000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-30",
+                    "gia_goc": 60000,
+                    "gia_ban": 51000,
+                    "khuyen_mai": "Giảm 15%"
+                }
+            ]
+        },
+        {
+            "product_id": "LC-2025-002",
+            "ten_san_pham": "Nước rửa tay khô (50ml)",
+            "lich_su_gia": [
+                {
+                    "ngay": "2025-08-01",
+                    "gia_goc": 39000,
+                    "gia_ban": 35100,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-02",
+                    "gia_goc": 39000,
+                    "gia_ban": 29250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-03",
+                    "gia_goc": 39000,
+                    "gia_ban": 35100,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-04",
+                    "gia_goc": 39000,
+                    "gia_ban": 29250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-05",
+                    "gia_goc": 39000,
+                    "gia_ban": 35100,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-06",
+                    "gia_goc": 39000,
+                    "gia_ban": 37050,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-08-07",
+                    "gia_goc": 39000,
+                    "gia_ban": 27300,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-08",
+                    "gia_goc": 39000,
+                    "gia_ban": 37050,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-08-09",
+                    "gia_goc": 39000,
+                    "gia_ban": 35100,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-10",
+                    "gia_goc": 39000,
+                    "gia_ban": 37050,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-08-11",
+                    "gia_goc": 39000,
+                    "gia_ban": 39000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-12",
+                    "gia_goc": 39000,
+                    "gia_ban": 33150,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-08-13",
+                    "gia_goc": 39000,
+                    "gia_ban": 35100,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-14",
+                    "gia_goc": 39000,
+                    "gia_ban": 27300,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-15",
+                    "gia_goc": 39000,
+                    "gia_ban": 29250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-16",
+                    "gia_goc": 39000,
+                    "gia_ban": 37050,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-08-17",
+                    "gia_goc": 39000,
+                    "gia_ban": 27300,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-18",
+                    "gia_goc": 39000,
+                    "gia_ban": 33150,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-08-19",
+                    "gia_goc": 39000,
+                    "gia_ban": 29250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-20",
+                    "gia_goc": 39000,
+                    "gia_ban": 27300,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-21",
+                    "gia_goc": 39000,
+                    "gia_ban": 39000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-22",
+                    "gia_goc": 39000,
+                    "gia_ban": 27300,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-23",
+                    "gia_goc": 39000,
+                    "gia_ban": 35100,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-24",
+                    "gia_goc": 39000,
+                    "gia_ban": 31200,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-25",
+                    "gia_goc": 39000,
+                    "gia_ban": 31200,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-26",
+                    "gia_goc": 39000,
+                    "gia_ban": 31200,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-27",
+                    "gia_goc": 39000,
+                    "gia_ban": 35100,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-28",
+                    "gia_goc": 39000,
+                    "gia_ban": 31200,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-29",
+                    "gia_goc": 39000,
+                    "gia_ban": 33150,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-08-30",
+                    "gia_goc": 39000,
+                    "gia_ban": 29250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-31",
+                    "gia_goc": 39000,
+                    "gia_ban": 39000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-01",
+                    "gia_goc": 39000,
+                    "gia_ban": 29250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-02",
+                    "gia_goc": 39000,
+                    "gia_ban": 29250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-03",
+                    "gia_goc": 39000,
+                    "gia_ban": 33150,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-04",
+                    "gia_goc": 39000,
+                    "gia_ban": 27300,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-05",
+                    "gia_goc": 39000,
+                    "gia_ban": 39000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-06",
+                    "gia_goc": 39000,
+                    "gia_ban": 33150,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-07",
+                    "gia_goc": 39000,
+                    "gia_ban": 27300,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-08",
+                    "gia_goc": 39000,
+                    "gia_ban": 29250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-09",
+                    "gia_goc": 39000,
+                    "gia_ban": 35100,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-10",
+                    "gia_goc": 39000,
+                    "gia_ban": 35100,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-11",
+                    "gia_goc": 39000,
+                    "gia_ban": 31200,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-09-12",
+                    "gia_goc": 39000,
+                    "gia_ban": 39000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-13",
+                    "gia_goc": 39000,
+                    "gia_ban": 39000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-14",
+                    "gia_goc": 39000,
+                    "gia_ban": 27300,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-15",
+                    "gia_goc": 39000,
+                    "gia_ban": 29250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-16",
+                    "gia_goc": 39000,
+                    "gia_ban": 39000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-17",
+                    "gia_goc": 39000,
+                    "gia_ban": 35100,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-18",
+                    "gia_goc": 39000,
+                    "gia_ban": 33150,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-19",
+                    "gia_goc": 39000,
+                    "gia_ban": 37050,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-20",
+                    "gia_goc": 39000,
+                    "gia_ban": 33150,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-21",
+                    "gia_goc": 39000,
+                    "gia_ban": 33150,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-22",
+                    "gia_goc": 39000,
+                    "gia_ban": 31200,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-09-23",
+                    "gia_goc": 39000,
+                    "gia_ban": 35100,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-24",
+                    "gia_goc": 39000,
+                    "gia_ban": 37050,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-25",
+                    "gia_goc": 39000,
+                    "gia_ban": 27300,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-26",
+                    "gia_goc": 39000,
+                    "gia_ban": 27300,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-27",
+                    "gia_goc": 39000,
+                    "gia_ban": 27300,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-28",
+                    "gia_goc": 39000,
+                    "gia_ban": 37050,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-29",
+                    "gia_goc": 39000,
+                    "gia_ban": 29250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-30",
+                    "gia_goc": 39000,
+                    "gia_ban": 27300,
+                    "khuyen_mai": "Giảm 30%"
+                }
+            ]
+        },
+        {
+            "product_id": "LC-2025-003",
+            "ten_san_pham": "Vitamin C 1000mg - Hộp 30 viên",
+            "lich_su_gia": [
+                {
+                    "ngay": "2025-08-01",
+                    "gia_goc": 220000,
+                    "gia_ban": 165000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-02",
+                    "gia_goc": 220000,
+                    "gia_ban": 165000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-03",
+                    "gia_goc": 220000,
+                    "gia_ban": 187000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-08-04",
+                    "gia_goc": 220000,
+                    "gia_ban": 198000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-05",
+                    "gia_goc": 220000,
+                    "gia_ban": 198000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-06",
+                    "gia_goc": 220000,
+                    "gia_ban": 165000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-07",
+                    "gia_goc": 220000,
+                    "gia_ban": 154000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-08",
+                    "gia_goc": 220000,
+                    "gia_ban": 209000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-08-09",
+                    "gia_goc": 220000,
+                    "gia_ban": 187000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-08-10",
+                    "gia_goc": 220000,
+                    "gia_ban": 165000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-11",
+                    "gia_goc": 220000,
+                    "gia_ban": 220000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-12",
+                    "gia_goc": 220000,
+                    "gia_ban": 176000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-13",
+                    "gia_goc": 220000,
+                    "gia_ban": 176000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-14",
+                    "gia_goc": 220000,
+                    "gia_ban": 165000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-15",
+                    "gia_goc": 220000,
+                    "gia_ban": 209000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-08-16",
+                    "gia_goc": 220000,
+                    "gia_ban": 165000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-17",
+                    "gia_goc": 220000,
+                    "gia_ban": 198000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-18",
+                    "gia_goc": 220000,
+                    "gia_ban": 209000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-08-19",
+                    "gia_goc": 220000,
+                    "gia_ban": 198000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-20",
+                    "gia_goc": 220000,
+                    "gia_ban": 154000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-21",
+                    "gia_goc": 220000,
+                    "gia_ban": 176000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-22",
+                    "gia_goc": 220000,
+                    "gia_ban": 165000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-23",
+                    "gia_goc": 220000,
+                    "gia_ban": 176000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-24",
+                    "gia_goc": 220000,
+                    "gia_ban": 187000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-08-25",
+                    "gia_goc": 220000,
+                    "gia_ban": 220000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-26",
+                    "gia_goc": 220000,
+                    "gia_ban": 220000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-27",
+                    "gia_goc": 220000,
+                    "gia_ban": 154000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-28",
+                    "gia_goc": 220000,
+                    "gia_ban": 187000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-08-29",
+                    "gia_goc": 220000,
+                    "gia_ban": 187000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-08-30",
+                    "gia_goc": 220000,
+                    "gia_ban": 154000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-31",
+                    "gia_goc": 220000,
+                    "gia_ban": 220000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-01",
+                    "gia_goc": 220000,
+                    "gia_ban": 198000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-02",
+                    "gia_goc": 220000,
+                    "gia_ban": 198000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-03",
+                    "gia_goc": 220000,
+                    "gia_ban": 165000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-04",
+                    "gia_goc": 220000,
+                    "gia_ban": 154000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-05",
+                    "gia_goc": 220000,
+                    "gia_ban": 176000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-09-06",
+                    "gia_goc": 220000,
+                    "gia_ban": 154000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-07",
+                    "gia_goc": 220000,
+                    "gia_ban": 220000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-08",
+                    "gia_goc": 220000,
+                    "gia_ban": 198000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-09",
+                    "gia_goc": 220000,
+                    "gia_ban": 198000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-10",
+                    "gia_goc": 220000,
+                    "gia_ban": 209000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-11",
+                    "gia_goc": 220000,
+                    "gia_ban": 176000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-09-12",
+                    "gia_goc": 220000,
+                    "gia_ban": 220000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-13",
+                    "gia_goc": 220000,
+                    "gia_ban": 220000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-14",
+                    "gia_goc": 220000,
+                    "gia_ban": 209000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-15",
+                    "gia_goc": 220000,
+                    "gia_ban": 209000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-16",
+                    "gia_goc": 220000,
+                    "gia_ban": 165000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-17",
+                    "gia_goc": 220000,
+                    "gia_ban": 198000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-18",
+                    "gia_goc": 220000,
+                    "gia_ban": 187000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-19",
+                    "gia_goc": 220000,
+                    "gia_ban": 165000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-20",
+                    "gia_goc": 220000,
+                    "gia_ban": 209000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-21",
+                    "gia_goc": 220000,
+                    "gia_ban": 187000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-22",
+                    "gia_goc": 220000,
+                    "gia_ban": 209000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-23",
+                    "gia_goc": 220000,
+                    "gia_ban": 198000,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-24",
+                    "gia_goc": 220000,
+                    "gia_ban": 220000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-25",
+                    "gia_goc": 220000,
+                    "gia_ban": 165000,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-26",
+                    "gia_goc": 220000,
+                    "gia_ban": 209000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-27",
+                    "gia_goc": 220000,
+                    "gia_ban": 187000,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-28",
+                    "gia_goc": 220000,
+                    "gia_ban": 209000,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-29",
+                    "gia_goc": 220000,
+                    "gia_ban": 154000,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-30",
+                    "gia_goc": 220000,
+                    "gia_ban": 154000,
+                    "khuyen_mai": "Giảm 30%"
+                }
+            ]
+        },
+        {
+            "product_id": "LC-2025-004",
+            "ten_san_pham": "Dầu gió xoa bóp 10ml",
+            "lich_su_gia": [
+                {
+                    "ngay": "2025-08-01",
+                    "gia_goc": 35000,
+                    "gia_ban": 31500,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-02",
+                    "gia_goc": 35000,
+                    "gia_ban": 29750,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-08-03",
+                    "gia_goc": 35000,
+                    "gia_ban": 26250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-04",
+                    "gia_goc": 35000,
+                    "gia_ban": 35000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-05",
+                    "gia_goc": 35000,
+                    "gia_ban": 26250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-06",
+                    "gia_goc": 35000,
+                    "gia_ban": 28000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-07",
+                    "gia_goc": 35000,
+                    "gia_ban": 28000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-08",
+                    "gia_goc": 35000,
+                    "gia_ban": 28000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-09",
+                    "gia_goc": 35000,
+                    "gia_ban": 35000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-10",
+                    "gia_goc": 35000,
+                    "gia_ban": 31500,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-11",
+                    "gia_goc": 35000,
+                    "gia_ban": 28000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-12",
+                    "gia_goc": 35000,
+                    "gia_ban": 31500,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-13",
+                    "gia_goc": 35000,
+                    "gia_ban": 31500,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-14",
+                    "gia_goc": 35000,
+                    "gia_ban": 24500,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-15",
+                    "gia_goc": 35000,
+                    "gia_ban": 26250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-16",
+                    "gia_goc": 35000,
+                    "gia_ban": 28000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-17",
+                    "gia_goc": 35000,
+                    "gia_ban": 26250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-18",
+                    "gia_goc": 35000,
+                    "gia_ban": 24500,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-19",
+                    "gia_goc": 35000,
+                    "gia_ban": 24500,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-20",
+                    "gia_goc": 35000,
+                    "gia_ban": 31500,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-21",
+                    "gia_goc": 35000,
+                    "gia_ban": 31500,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-22",
+                    "gia_goc": 35000,
+                    "gia_ban": 35000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-23",
+                    "gia_goc": 35000,
+                    "gia_ban": 31500,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-24",
+                    "gia_goc": 35000,
+                    "gia_ban": 24500,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-25",
+                    "gia_goc": 35000,
+                    "gia_ban": 24500,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-08-26",
+                    "gia_goc": 35000,
+                    "gia_ban": 26250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-27",
+                    "gia_goc": 35000,
+                    "gia_ban": 26250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-08-28",
+                    "gia_goc": 35000,
+                    "gia_ban": 31500,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-08-29",
+                    "gia_goc": 35000,
+                    "gia_ban": 35000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-08-30",
+                    "gia_goc": 35000,
+                    "gia_ban": 28000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-08-31",
+                    "gia_goc": 35000,
+                    "gia_ban": 26250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-01",
+                    "gia_goc": 35000,
+                    "gia_ban": 31500,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-02",
+                    "gia_goc": 35000,
+                    "gia_ban": 29750,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-03",
+                    "gia_goc": 35000,
+                    "gia_ban": 35000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-04",
+                    "gia_goc": 35000,
+                    "gia_ban": 29750,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-05",
+                    "gia_goc": 35000,
+                    "gia_ban": 29750,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-06",
+                    "gia_goc": 35000,
+                    "gia_ban": 24500,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-07",
+                    "gia_goc": 35000,
+                    "gia_ban": 29750,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-08",
+                    "gia_goc": 35000,
+                    "gia_ban": 31500,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-09",
+                    "gia_goc": 35000,
+                    "gia_ban": 29750,
+                    "khuyen_mai": "Giảm 15%"
+                },
+                {
+                    "ngay": "2025-09-10",
+                    "gia_goc": 35000,
+                    "gia_ban": 31500,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-11",
+                    "gia_goc": 35000,
+                    "gia_ban": 33250,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-12",
+                    "gia_goc": 35000,
+                    "gia_ban": 35000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-13",
+                    "gia_goc": 35000,
+                    "gia_ban": 24500,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-14",
+                    "gia_goc": 35000,
+                    "gia_ban": 35000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-15",
+                    "gia_goc": 35000,
+                    "gia_ban": 33250,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-16",
+                    "gia_goc": 35000,
+                    "gia_ban": 28000,
+                    "khuyen_mai": "Giảm 20%"
+                },
+                {
+                    "ngay": "2025-09-17",
+                    "gia_goc": 35000,
+                    "gia_ban": 31500,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-18",
+                    "gia_goc": 35000,
+                    "gia_ban": 26250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-19",
+                    "gia_goc": 35000,
+                    "gia_ban": 33250,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-20",
+                    "gia_goc": 35000,
+                    "gia_ban": 24500,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-21",
+                    "gia_goc": 35000,
+                    "gia_ban": 24500,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-22",
+                    "gia_goc": 35000,
+                    "gia_ban": 31500,
+                    "khuyen_mai": "Giảm 10%"
+                },
+                {
+                    "ngay": "2025-09-23",
+                    "gia_goc": 35000,
+                    "gia_ban": 35000,
+                    "khuyen_mai": "Không có"
+                },
+                {
+                    "ngay": "2025-09-24",
+                    "gia_goc": 35000,
+                    "gia_ban": 33250,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-25",
+                    "gia_goc": 35000,
+                    "gia_ban": 26250,
+                    "khuyen_mai": "Giảm 25%"
+                },
+                {
+                    "ngay": "2025-09-26",
+                    "gia_goc": 35000,
+                    "gia_ban": 33250,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-27",
+                    "gia_goc": 35000,
+                    "gia_ban": 33250,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-28",
+                    "gia_goc": 35000,
+                    "gia_ban": 33250,
+                    "khuyen_mai": "Giảm 5%"
+                },
+                {
+                    "ngay": "2025-09-29",
+                    "gia_goc": 35000,
+                    "gia_ban": 24500,
+                    "khuyen_mai": "Giảm 30%"
+                },
+                {
+                    "ngay": "2025-09-30",
+                    "gia_goc": 35000,
+                    "gia_ban": 28000,
+                    "khuyen_mai": "Giảm 20%"
+                }
+            ]
+        }
+]
+    ]
+}
